@@ -69,7 +69,7 @@ Median and percentile-based metrics were intentionally avoided due to Excel limi
 ### 🔹 Page 1: Operational Overview & Control Panel
 **Purpose:** Executive snapshot of the current operational state  
 
-![Page 1 – Overview](outputs\OperationalOverview.png)
+![Page 1 – Overview](outputs/OperationalOverview.png)
 
 **What this page answers:**
 - How many requests exist overall?
@@ -92,7 +92,7 @@ This page functions as the **control panel** for the entire report.
 ### 🔹 Page 2: Request Volume & Demand Analysis
 **Purpose:** Understand request inflow patterns and demand composition  
 
-![Page 2 – Volume & Demand](.\outputs\RequestVolume.png)
+![Page 2 – Volume & Demand](outputs/RequestVolume.png)
 
 **What this page answers:**
 - How does request volume change over time?
@@ -111,7 +111,7 @@ This page focuses on **what is coming into the system**.
 ### 🔹 Page 3: Resolution Performance Analysis
 **Purpose:** Evaluate efficiency and identify performance risk  
 
-![Page 3 – Resolution Performance](\outputs\ResolutionPerformance.png)
+![Page 3 – Resolution Performance](outputs/ResolutionPerformance.png)
 
 **What this page answers:**
 - How long do requests typically take to resolve?
@@ -131,7 +131,7 @@ This page focuses on **how well work is being resolved**, not just how much work
 ### 🔹 Page 4: Backlog Risk & Aging Analysis
 **Purpose:** Highlight operational risk and ownership  
 
-![Page 4 – Backlog Risk](\outputs\BacklogRisk.png)
+![Page 4 – Backlog Risk](outputs/BacklogRisk.png)
 
 **What this page answers:**
 - Where is the open backlog aging?

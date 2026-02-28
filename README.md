@@ -161,12 +161,5 @@ This page **closes the story** by clearly identifying where action is required.
 
 ---
 
-## ✅ Key Takeaways
-- Large operational datasets require **careful modeling**, not just visuals
-- Stable metrics matter more than complex ones in Excel
-- A well-structured Excel report can support decision-making as effectively as BI tools when designed correctly
-
----
-
 * **Author:** **Omkar Dhanke**    
 * **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-dhanke)
